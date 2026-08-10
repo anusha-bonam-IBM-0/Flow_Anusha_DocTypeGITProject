@@ -14,13 +14,13 @@
         <number name="createdDate" type="Long">1786384514619</number>
         <value name="lastModifiedBy">Anusha.Bonam@ibm.com</value>
         <value name="lastModifiedByUserId">9a6ad826b26e4038a5362868eb14c34e</value>
-        <number name="lastModifiedDate" type="Long">1786384687924</number>
+        <number name="lastModifiedDate" type="Long">1786384753893</number>
       </record>
       <Boolean name="wMIODocTypeReplica">true</Boolean>
       <value name="createdBy">Anusha.Bonam@ibm.com</value>
       <value name="createdDate">2026-08-10T17:55:14.619616969Z</value>
       <value name="modifiedBy">Anusha.Bonam@ibm.com</value>
-      <value name="lastModifiedDate">2026-08-10T17:58:07.927728758Z</value>
+      <value name="lastModifiedDate">2026-08-10T17:59:13.895975605Z</value>
     </record>
     <value name="is_public">false</value>
     <value name="field_type">record</value>
@@ -35,7 +35,7 @@
         <value name="node_nsName">Field1</value>
         <value name="node_comment"></value>
         <record name="node_hints" javaclass="com.wm.util.Values">
-          <value name="id">414d55a3-e175-4f21-8d6f-491680b743eb</value>
+          <value name="id">c24d85dc-4161-4a7c-8072-e5bdfab37e4e</value>
           <value name="field_password">false</value>
           <value name="field_largerEditor">false</value>
         </record>
@@ -46,83 +46,6 @@
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
-      </record>
-      <record javaclass="com.wm.util.Values">
-        <value name="node_type">field</value>
-        <value name="node_subtype">unknown</value>
-        <value name="node_comment"></value>
-        <record name="node_hints" javaclass="com.wm.util.Values">
-          <value name="field_largerEditor">false</value>
-          <value name="field_password">false</value>
-          <value name="field_usereditable">false</value>
-          <value name="id">16d89530-96a3-4830-b2c2-6975b0b7f80b</value>
-        </record>
-        <value name="is_public">false</value>
-        <value name="field_name">b</value>
-        <value name="field_type">string</value>
-        <value name="field_dim">0</value>
-        <value name="nillable">true</value>
-        <value name="form_qualified">false</value>
-        <value name="is_global">false</value>
-      </record>
-      <record javaclass="com.wm.util.Values">
-        <value name="node_type">field</value>
-        <value name="node_subtype">unknown</value>
-        <value name="node_comment"></value>
-        <record name="node_hints" javaclass="com.wm.util.Values">
-          <value name="field_largerEditor">false</value>
-          <value name="field_password">false</value>
-          <value name="field_usereditable">false</value>
-          <value name="id">Field6</value>
-        </record>
-        <value name="is_public">false</value>
-        <value name="field_name">c</value>
-        <value name="field_type">string</value>
-        <value name="field_dim">0</value>
-        <value name="nillable">true</value>
-        <value name="form_qualified">false</value>
-        <value name="is_global">false</value>
-      </record>
-      <record javaclass="com.wm.util.Values">
-        <value name="node_type">record</value>
-        <value name="node_subtype">unknown</value>
-        <value name="node_nsName">Field39</value>
-        <value name="node_comment"></value>
-        <record name="node_hints" javaclass="com.wm.util.Values">
-          <value name="field_largerEditor">false</value>
-          <value name="field_password">false</value>
-          <value name="field_usereditable">false</value>
-          <value name="id">Field39</value>
-        </record>
-        <value name="is_public">false</value>
-        <value name="label">Field39</value>
-        <value name="field_name">d</value>
-        <value name="field_type">record</value>
-        <value name="field_dim">0</value>
-        <value name="nillable">true</value>
-        <value name="form_qualified">false</value>
-        <value name="is_global">false</value>
-        <array name="rec_fields" type="record" depth="1">
-          <record javaclass="com.wm.util.Values">
-            <value name="node_type">field</value>
-            <value name="node_subtype">unknown</value>
-            <value name="node_comment"></value>
-            <record name="node_hints" javaclass="com.wm.util.Values">
-              <value name="field_largerEditor">false</value>
-              <value name="field_password">false</value>
-              <value name="field_usereditable">false</value>
-              <value name="id">11e36d24-5d20-4baa-ab84-1ea19998b1ea</value>
-            </record>
-            <value name="is_public">false</value>
-            <value name="field_name">dd</value>
-            <value name="field_type">string</value>
-            <value name="field_dim">0</value>
-            <value name="nillable">true</value>
-            <value name="form_qualified">false</value>
-            <value name="is_global">false</value>
-          </record>
-        </array>
-        <value name="modifiable">true</value>
       </record>
     </array>
     <value name="modifiable">true</value>
