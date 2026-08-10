@@ -62,9 +62,8 @@
   <value name="retry_max">0</value>
   <value name="retry_interval">0</value>
   <record name="node_hints" javaclass="com.wm.util.Values">
-    <value name="createdBy">Anusha.Bonam@ibm.com</value>
-    <value name="createdDate">2026-08-10T19:26:46.962763632Z</value>
-    <value name="lastModifiedDate">2026-08-10T19:26:46.962763632Z</value>
+    <value name="lastModifiedBy">Anusha.Bonam@ibm.com</value>
+    <value name="lastModifiedDate">2026-08-10T19:30:32.944062955Z</value>
     <value name="displayName">Dafflow</value>
     <value name="description"></value>
     <record name="stepNodeHints" javaclass="com.wm.util.Values">
@@ -85,8 +84,23 @@
         </array>
         <array name="lookupTransformer" type="object" depth="1" javaclass="java.lang.Object">
         </array>
+        <value name="nodePathForDebug">0</value>
       </record>
       <null name="/0/0"/>
+      <record name="/1" javaclass="com.wm.util.Values">
+        <null name="name"/>
+        <value name="itemType">SERVICES</value>
+        <record name="serviceInfo" javaclass="com.wm.util.Values">
+          <value name="groupDisplayName">Date</value>
+          <value name="groupName">date</value>
+          <null name="services"/>
+        </record>
+        <record name="serviceName" javaclass="com.wm.util.Values">
+          <value name="displayName">currentNanoTime</value>
+          <value name="serviceName">pub.date:currentNanoTime</value>
+          <value name="transformerSupport">true</value>
+        </record>
+      </record>
     </record>
     <value name="modifiedBy">Anusha.Bonam@ibm.com</value>
   </record>
